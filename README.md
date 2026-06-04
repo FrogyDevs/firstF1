@@ -12,7 +12,6 @@ A small Fast F1 telemetry helper that uses `fastf1` to download race session dat
 
 - Python 3.13+
 - `fastf1` >= 3.8.3
-- `matplotlib` >= 3.10.9
 
 ## Installation
 
